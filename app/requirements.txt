@@ -1,0 +1,4 @@
+Flask==2.2.2
+gunicorn==20.1.0
+boto3==1.26.90  # AWS SDK for Python
+psycopg2-binary==2.9.5

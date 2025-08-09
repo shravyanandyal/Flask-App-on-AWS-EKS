@@ -1,0 +1,10 @@
+
+.DS_Store
+*.pkg
+*.tar.gz
+*.zip
+*.json
+*.sha256
+
+__pycache__/
+*.pyc
